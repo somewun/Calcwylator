@@ -7,6 +7,6 @@ I am hoping to build this from scrach over time, Ideas and help would be well re
 To do List:
 
 1) To implement a memory function, allowing the use of using a previous answer in your next calculation. 
-2) Remove the known bugs from teh program (see change log)
+2) Remove the known bugs from the program (see change log)
 
 Somewun
