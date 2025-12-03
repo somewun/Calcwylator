@@ -2,7 +2,7 @@
 
  simple lightweight calculator for learning about GUI and Python
 
-I am hoping to build this from scrach over time, Ideas and help would be well recieved.
+I am hoping to build this from scratch over time, Ideas and help would be well recieved.
 
 To do List:
 
